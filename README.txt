@@ -1,4 +1,3 @@
-Questions 3 and 4 are coded in python.
 
 how to run
 >put NLP folder in the python install folder in C:
